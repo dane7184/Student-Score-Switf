@@ -1,0 +1,5 @@
+{
+  "code-runner.executorMap": {
+    "swift": "cd /d $dir && swiftc $fileName -o $fileNameWithoutExt.exe && $fileNameWithoutExt.exe"
+  }
+}
